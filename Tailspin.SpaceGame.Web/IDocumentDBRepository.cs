@@ -36,7 +36,7 @@ namespace TailSpin.SpaceGame.Web
             int page = 1,
             int pageSize = 10
         );
-
+        //
         /// <summary>
         /// Retrieves the number of items that match the given query predicate.
         /// </summary>
